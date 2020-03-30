@@ -1,0 +1,271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"roll",
+				"rollnum"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"P",
+				"pTurn"
+			],
+			[
+				"anim",
+				"animation-timing-function\tproperty"
+			],
+			[
+				"ani",
+				"animation-direction\tproperty"
+			],
+			[
+				"an",
+				"animation\tproperty"
+			],
+			[
+				"box",
+				"box-content3"
+			],
+			[
+				"b",
+				"box-content2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Program Files/Dart/helloworld.dart",
+		"/C/Users/vanshika/Documents/New folder (4)/oak2nd.js",
+		"/C/Users/vanshika/Documents/New folder (4)/pr.html",
+		"/C/Users/vanshika/Documents/New folder (4)/oak.js",
+		"/C/Users/vanshika/Documents/New folder (4)/try.html",
+		"/C/Users/vanshika/Documents/New folder (4)/oak.css",
+		"/C/Users/vanshika/Documents/New folder (4)/oak.html",
+		"/C/Users/vanshika/Documents/New folder (4)/css.css",
+		"/C/Users/vanshika/Documents/New folder (4)/oooo.html",
+		"/C/Users/vanshika/Documents/New folder (4)/style.css",
+		"/C/Users/vanshika/Documents/New folder (4)/index.html",
+		"/C/Users/vanshika/Documents/New folder (4)/nav.css",
+		"/C/Users/vanshika/Documents/New folder (4)/nav.html",
+		"/C/Users/vanshika/Documents/New folder (4)/nav.js",
+		"/C/Users/vanshika/Documents/New folder (4)/oak1.js",
+		"/C/Users/vanshika/Documents/New folder (4)/css",
+		"/C/Users/vanshika/Documents/project/normalize.css",
+		"/C/Users/vanshika/Documents/project/index.html",
+		"/C/Users/vanshika/Documents/project/custom.css",
+		"/C/Users/vanshika/Documents/New folder (4)/p.html",
+		"/C/Users/vanshika/Documents/project/game.js",
+		"/C/Users/vanshika/Documents/project/final.css",
+		"/C/Users/vanshika/Documents/project/final.html",
+		"/C/Users/vanshika/Documents/project/dice.js",
+		"/C/Users/vanshika/Documents/project/style1.css",
+		"/C/Users/vanshika/Documents/project/game.html",
+		"/C/Users/vanshika/Documents/project/game.css",
+		"/C/Users/vanshika/Documents/project/math.js",
+		"/C/Users/vanshika/Documents/project/dice.html",
+		"/C/Users/vanshika/Documents/project/animation.css",
+		"/C/Users/vanshika/Documents/project/animation.html",
+		"/C/Users/vanshika/Documents/project/style.css",
+		"/C/Users/vanshika/Documents/project/project.html",
+		"/C/Users/vanshika/Documents/project/vacanza.html",
+		"/C/Users/vanshika/Documents/project/project.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
